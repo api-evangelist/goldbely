@@ -1,0 +1,36 @@
+# Goldbelly
+
+> Goldbelly is a curated online marketplace for gourmet food and mail-order culinary gifts, shipping iconic meals, desserts, regional specialties, and artisanal products from renowned restaurants, bakeries, and celebrity chefs across the United States. Goldbelly is a consumer e-commerce brand and does not publish a public developer API; the links below are its public web, merchant, and corporate surfaces.
+
+## Company
+
+- [Website](https://www.goldbelly.com): Consumer marketplace home
+- [About](https://www.goldbelly.com/about): About Goldbelly
+- [Press](https://www.goldbelly.com/press): Press and media
+- [Blog](https://blog.goldbelly.com): Goldbelly blog
+- [Jobs](https://www.goldbelly.com/jobs): Careers and teams
+
+## Merchant
+
+- [Sell on Goldbelly](https://sellers.goldbelly.com): Merchant / seller program and application
+- [Merchant Dashboard](https://www.goldbelly.com/mdash/v2/login): Seller login
+
+## Support
+
+- [Customer Care](https://help.goldbelly.com/hc/en-us): Help center and support
+
+## Legal
+
+- [Terms of Service](https://www.goldbelly.com/terms-of-service): Terms of service
+- [Privacy + Security](https://www.goldbelly.com/privacy-and-security): Privacy policy and security
+- [Accessibility](https://www.goldbelly.com/accessibility): Accessibility statement
+
+## Development
+
+- [GitHub Organization](https://github.com/Goldbely): Goldbelly GitHub organization
+
+## Meta
+
+- generated: 2026-07-19
+- method: generated
+- source: apis.yml + verified public Goldbelly web surfaces

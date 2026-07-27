@@ -1,7 +1,28 @@
 aid: goldbely
-name: Goldbely
-description: Goldbely is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Goldbelly
+description: >-
+  Goldbelly is a curated online marketplace for gourmet food and mail-order
+  culinary gifts, shipping iconic meals, desserts, regional specialties, and
+  artisanal products from renowned restaurants, bakeries, and celebrity chefs
+  across the United States directly to consumers' doors. The platform partners
+  with thousands of local and legendary food makers to make hard-to-get regional
+  foods available nationwide, and operates a merchant program ("Sell on
+  Goldbelly") plus corporate and subscription gifting. Goldbelly is a consumer
+  e-commerce brand with no publicly documented developer API; this profile
+  captures its public web, merchant, and corporate identity. It was surfaced as
+  a portfolio company of a16z and added to the API Evangelist network.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://img.goldbelly.com/consumer/homepage/facebook-share-home.png?fit=crop&w=1200&h=630
 url: https://raw.githubusercontent.com/api-evangelist/goldbely/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +32,43 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Food and Beverage
+- E-Commerce
+- Marketplace
+- Gourmet Food
+- Gifting
+- Food Delivery
+- Consumer
 apis: []
+common:
+- type: DomainSecurity
+  url: security/goldbely-domain-security.yml
+- type: LLMsTxt
+  url: llms/goldbely-llms.txt
+- type: Website
+  url: https://www.goldbelly.com
+- type: Blog
+  url: https://blog.goldbelly.com
+- type: Support
+  url: https://help.goldbelly.com/hc/en-us
+- type: GitHubOrganization
+  url: https://github.com/Goldbely
+- type: SignUp
+  url: https://sellers.goldbelly.com
+- type: TermsOfService
+  url: https://www.goldbelly.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.goldbelly.com/privacy-and-security
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
