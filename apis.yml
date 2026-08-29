@@ -11,6 +11,17 @@ description: >-
   e-commerce brand with no publicly documented developer API; this profile
   captures its public web, merchant, and corporate identity. It was surfaced as
   a portfolio company of a16z and added to the API Evangelist network.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
